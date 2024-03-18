@@ -24,7 +24,7 @@
      <a href="https://github.com/DanAntunes" title="Github">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
     <a href="#" title="Vscode">
-    <img src=" https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC"><a/>
+    <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC"><a/>
 
 <p align="left">🎮 Games:<p/>
 <a href="https://steamcommunity.com/id/Benja21/" title="Steam">
