@@ -62,7 +62,7 @@
       <br />
       <img
         align="left"
-        src="[https://github-readme-streak-stats.herokuapp.com/?user=DanAntunes&theme=dark&hide_border=false](https://github-readme-streak-stats.herokuapp.com/?user=DanAntunes&theme=dark&hide_border=false)"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=DanAntunes&theme=dark&hide_border=false"
         alt="Github Stats"
       />
     </td>
