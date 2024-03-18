@@ -1,34 +1,74 @@
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-### Olá sou o Danilo 🖖🏻
+<p align="left"> 
+  Olá! Meu nome é Danilo Antunes, sou um desenvolvedor front-end júnior. Atualmente, estou no último ano da faculdade e estou muito animado para começar minha carreira no mundo da tecnologia. Sou freelancer e estou buscando conhecimento para aprimorar as minhas habilidades. <br>
+</p>
 
-🚀 Dev Front-End Junior 
+<p align="left">
+  🦄 Linguagens:
+    <br>
+    <a href="#" title="HTML">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></a>
+    <a href="#" title="css">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></a>
+    <a href="#" title="JS">
+    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/></a>
+    <a href="#" title="BOOTSTRAP">
+    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/></a>
+   
+</p>
 
-💻 Estudando JavaScript & React.js
+<p align="left">
+  💼 Ferramentas:
+  <br>
+    <a href="#" title="Vscode">
+    <img src=" https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC" width="170"><a/>
+     <a href="#" title="WORD">
+    <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white"/></a>
+     <a href="https://github.com/DanAntunes" title="Github">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 
-😄 Pronouns: Fan/tastic
+<p align="left">🎮 Games:<p/>
+<a href="https://steamcommunity.com/id/Benja21/" title="Steam">
+    <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" /></a>
 
-<br>
+### ⚙️ GitHub Analytics
 
-![Dan GitHub stats](https://github-readme-stats.vercel.app/api?username=danantunes&show_icons=true&theme=dark)
+<table>
+  <tr>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api?username=DanAntunes&theme=dark&hide_border=false&include_all_commits=true"
+        alt="Github Stats"
+      />
+    </td>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanAntunes&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        alt="Github Stats"
+      />
+    </td>
+    <td>
+      <br />
+      <img
+        align="left"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=DanAntunes&theme=dark&hide_border=false"
+        alt="Github Stats"
+      />
+    </td>
+  </tr>
+</table>
 
-<h3>Tecnologias que eu utilizo
+--- 
 
-<div style="display: block"><br>
-    <img align="center" alt="html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-    <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-    <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-    <img align="center" alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-</div>
-<br>
- <img align="center" alt="discord" src="https://user-images.githubusercontent.com/74038190/221352968-ac6f7b24-ed9a-4d00-a045-710caa6fc834.gif">
+<p align="left">
+  💌 Contato: ⤵️
+</p>
 
-<br>
-<div  style="width: 400px; height: 100px; background-color: #f0f0f0; border-radius: 10px; padding: 20px;">
-    <h2 style="margin-top: 1px; padding: 2px; color:white; background-color: rgba(0, 0, 0, 0.7); border-radius: 10px;  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5); font-family: helvetica, arial;">Discord: soren_young</h2>
-    <h3 style="color: black; margin: auto; box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5); border-radius: 5px"> 🧑🏼‍🚀 " Nós somos poeira de estrelas . "  <cite> - Carl Segan</cite> </h3>
-
-</div>
-
-<br>
-
-![Blog](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+[![Gmail Badge](https://img.shields.io/badge/-danilojantunes@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danilojantunes@gmail.com)](mailto:danilojantunes@gmail.com)
+[![GitHub](https://img.shields.io/github/followers/DanAntunes?label=follow&style=social)](https://github.com/DanAntunes)
+<a href="https://www.instagram.com/soren.young/" title="Instagram">
+    <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/soren.young/" alt="Instagram"/>
+</a>
