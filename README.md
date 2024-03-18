@@ -19,12 +19,12 @@
 
 <p align="left">
   💼 Ferramentas:
-    <a href="#" title="Vscode">
-    <img src=" https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC"><a/>
      <a href="#" title="WORD">
     <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white"/></a>
      <a href="https://github.com/DanAntunes" title="Github">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+    <a href="#" title="Vscode">
+    <img src=" https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC"><a/>
 
 <p align="left">🎮 Games:<p/>
 <a href="https://steamcommunity.com/id/Benja21/" title="Steam">
