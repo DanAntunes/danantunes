@@ -6,7 +6,6 @@
 
 <p align="left">
   🦄 Linguagens:
-    <br>
     <a href="#" title="HTML">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></a>
     <a href="#" title="css">
@@ -20,7 +19,6 @@
 
 <p align="left">
   💼 Ferramentas:
-  <br>
     <a href="#" title="Vscode">
     <img src=" https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC" width="170"><a/>
      <a href="#" title="WORD">
