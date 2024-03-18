@@ -6,6 +6,7 @@
 
 <p align="left">
   🦄 Linguagens:
+    <br>
     <a href="#" title="HTML">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></a>
     <a href="#" title="css">
@@ -19,16 +20,25 @@
 
 <p align="left">
   💼 Ferramentas:
+  <br>
+    <a href="#" title="Vscode">
+    <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC" width="170"><a/>
      <a href="#" title="WORD">
     <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white"/></a>
      <a href="https://github.com/DanAntunes" title="Github">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-    <a href="#" title="Vscode">
-    <img src="[https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC" width="170")"><a/>
 
-<p align="left">🎮 Games:<p/>
+<p align="left">🎮 Games & Music:<p/>
+<p>
 <a href="https://steamcommunity.com/id/Benja21/" title="Steam">
     <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" /></a>
+    <img src="https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white">
+    <img src="https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white">
+    <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white">
+<p/>
+
+<p align="left"> Sistema Operacional: <p/>
+    <img src="https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white">
 
 ### ⚙️ GitHub Analytics
 
