@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens:
+  👨‍💻 Tech Stack:
     <br>
     <a href="#" title="HTML">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></a>
