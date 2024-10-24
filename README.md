@@ -79,8 +79,9 @@
   💌 Contato: ⤵️
 </p>
 
-[![Gmail Badge](https://img.shields.io/badge/-danilo-258@hotmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danilo-258@hotmail.com)](mailto:danilo-258@hotmail.com)
+[![Outlook Badge](https://img.shields.io/badge/-danilo--258%40hotmail.com-006bed?style=flat-square&logo=Outlook&logoColor=white&link=mailto:danilo-258@hotmail.com)](mailto:danilo-258@hotmail.com)
+
 [![GitHub](https://img.shields.io/github/followers/DanAntunes?label=follow&style=social)](https://github.com/DanAntunes)
 <a href="https://www.instagram.com/dev_danantunes/" title="Instagram">
-    <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/soren.young/" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/dev_danantunes/" alt="Instagram"/>
 </a>
