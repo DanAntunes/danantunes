@@ -1,3 +1,9 @@
+<!-- Banner Animado Centralizado -->
+<p align="center">
+  <a href="https://gifer.com/embed/33HI" target="_blank">
+    <img src="https://i.gifer.com/origin/33/33HI.gif" alt="Banner Animado Pixel Art" style="max-width: 100%; height: auto;">
+  </a>
+</p>
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
