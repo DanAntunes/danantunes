@@ -86,7 +86,7 @@
     <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/dev_danantunes/" alt="Instagram"/>
 </a>
 
-<picture>
+<picture width="100%">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DanAntunes/DanAntunes/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DanAntunes/DanAntunes/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DanAntunes/DanAntunes/output/github-contribution-grid-snake.svg">
