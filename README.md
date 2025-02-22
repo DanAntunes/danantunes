@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://github.com/DanAntunes/DanAntunes/assets/123456789/banner.gif" width="800" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
-</p>
-
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
