@@ -120,7 +120,7 @@ Desenvolvedor Front-End Júnior com experiência em criação de interfaces web 
         justify-content: center;
         align-items: center;
       ">
-        <img src="./images/spider-man-multiverso.png" 
+        <img src="./public/spider-man-multiverso.png" 
              alt="Preview Spider-Man" 
              style="max-width: 100%; border-radius: 15px; box-shadow: 0 8px 24px rgba(255,255,255,0.1);">
       </div>
@@ -167,7 +167,7 @@ Desenvolvedor Front-End Júnior com experiência em criação de interfaces web 
         justify-content: center;
         align-items: center;
       ">
-        <img src="./images/stranger-things.png" 
+        <img src="./public/stranger-things.png" 
              alt="Preview Mundo Invertido" 
              style="max-width: 80%; border-radius: 15px; box-shadow: 0 8px 24px rgba(255,255,255,0.1);">
       </div>
@@ -213,7 +213,7 @@ Desenvolvedor Front-End Júnior com experiência em criação de interfaces web 
         justify-content: center;
         align-items: center;
       ">
-        <img src="./images/orcamento.png" 
+        <img src="./public/orcamento.png" 
              alt="Preview Orçamento" 
              style="max-width: 100%; border-radius: 15px; box-shadow: 0 8px 24px rgba(255,255,255,0.1);">
       </div>
@@ -259,7 +259,7 @@ Desenvolvedor Front-End Júnior com experiência em criação de interfaces web 
         justify-content: center;
         align-items: center;
       ">
-        <img src="./images/portifolio.png" 
+        <img src="./public/portifolio.png" 
              alt="Preview Portfólio" 
              style="max-width: 100%; border-radius: 15px; box-shadow: 0 8px 24px rgba(255,255,255,0.1);">
       </div>
