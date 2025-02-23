@@ -318,10 +318,10 @@ Desenvolvedor Front-End Júnior com experiência em criação de interfaces web 
 <!-- Atividades Recentes -->
 <!--START_SECTION:activity-->
 1. 🎉 Novo release do Spider-Man Multiverso  
-2. Estudando PHP  
+2. 📝 Estudando PHP  
 3. 📈 Melhorias de performance no App Orçamento  
 4. 🎨 Atualização do design system  
-5. 🔧 Refatoração de código base  
+5. 📚 Realizando bootcamp DIO sobre IA
 <!--END_SECTION:activity-->
 
 </details>
