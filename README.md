@@ -6,7 +6,7 @@
   </a>
 </p>
 <div align="center">
-  <img src="./s/banner2.gif" alt="Banner Animado Pixel Art" width="100%">
+  <img src="./public/banner2.gif" alt="Banner Animado Pixel Art" width="100%">
 </div>
 <h3> 👨💻 Desenvolvedor Front-End </h3>
 <br>
