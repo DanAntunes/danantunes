@@ -334,7 +334,7 @@ Desenvolvedor Front-End Júnior com experiência em criação de interfaces web 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-linkedin)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dev_danantunes/)
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=bbd2d8&height=120&section=footer"/>
+
 
 <div style="width: 100%; text-align: center;">
   <picture style="display: inline-block; width: 100%;">
@@ -343,3 +343,5 @@ Desenvolvedor Front-End Júnior com experiência em criação de interfaces web 
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DanAntunes/DanAntunes/output/github-contribution-grid-snake.svg" style="width: 100%; display: block;">
   </picture>
 </div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=bbd2d8&height=120&section=footer"/>
