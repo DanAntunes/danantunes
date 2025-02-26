@@ -321,7 +321,7 @@ Desenvolvedor Front-End Júnior com experiência em criação de interfaces web 
 2. 📝 Estudando PHP  
 3. 📈 Melhorias de performance no App Orçamento  
 4. 🎨 Atualização do design system  
-5. 📚 Realizando bootcamp DIO sobre IA
+5. 📚 Realizando bootcamp DIO sobre Microsoft Azure
 <!--END_SECTION:activity-->
 
 </details>
