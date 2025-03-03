@@ -317,11 +317,11 @@ Desenvolvedor Front-End Júnior com experiência em criação de interfaces web 
 
 <!-- Atividades Recentes -->
 <!--START_SECTION:activity-->
-1. 🎉 Novo release do Spider-Man Multiverso  
+1. 🌐 Criando um site chamado app help desk
 2. 📝 Estudando PHP  
-3. 📈 Melhorias de performance no App Orçamento  
-4. 🎨 Atualização do design system  
-5. 📚 Realizando bootcamp DIO sobre Microsoft Azure
+3. 📁 Estudando estrutura de pastas para projetos  
+4. 🎉 Novo release do Spider-Man Multiverso  
+5. 🎨 Atualização do design system
 <!--END_SECTION:activity-->
 
 </details>
