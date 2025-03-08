@@ -40,20 +40,20 @@ Desenvolvedor Front-End Júnior com experiência em criação de interfaces web 
 <details>
   <summary><b>📊 GitHub Analytics</b></summary>
   <br>
-  <a href="https://github.com/devdan4ntunes">
+  <a href="https://github.com/DanAntunes">
   <table>
   <tr>
     <td>
       <img
         height="155em"
-        src="https://github-readme-stats.vercel.app/api?username=devdan4ntunes&theme=dark&hide_border=false&include_all_commits=true"
+        src="https://github-readme-stats.vercel.app/api?username=DanAntunes&theme=dark&hide_border=false&include_all_commits=true"
         alt="Github Stats"
       />
     </td>
     <td>
       <img
         height="155em"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=devdan4ntunes&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanAntunes&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
         alt="Github Stats"
       />
     </td>
@@ -107,7 +107,7 @@ Desenvolvedor Front-End Júnior com experiência em criação de interfaces web 
           <li>🎮 Animações CSS complexas e responsivas</li>
           <li>🌐 Integração com Google Fonts</li>
           <li style="margin-top: 1rem;">
-            <a href="https://github.com/devdan4ntunes/spider-man-multiverse">
+            <a href="https://github.com/DanAntunes/spider-man-multiverse">
               <img src="https://img.shields.io/badge/Repositório-181717?style=flat-square&logo=github" alt="Repositório">
             </a>
           </li>
@@ -154,7 +154,7 @@ Desenvolvedor Front-End Júnior com experiência em criação de interfaces web 
           <li>✔️ Player de vídeo integrado</li>
           <li>✔️ Design totalmente responsivo</li>
           <li style="margin-top: 1rem;">
-            <a href="https://devdan4ntunes.github.io/-landing-page-mundo-invertido/">
+            <a href="https://DanAntunes.github.io/-landing-page-mundo-invertido/">
               <img src="https://img.shields.io/badge/Repositório-181717?style=flat-square&logo=github" alt="Demo">
             </a>
           </li>
@@ -200,7 +200,7 @@ Desenvolvedor Front-End Júnior com experiência em criação de interfaces web 
           <li>📊 Gráficos dinâmicos de acompanhamento</li>
           <li>🎨 Interface intuitiva com Bootstrap 5</li>
           <li style="margin-top: 1rem;">
-            <a href="https://github.com/devdan4ntunes/orcamento-pessoal">
+            <a href="https://github.com/DanAntunes/orcamento-pessoal">
               <img src="https://img.shields.io/badge/Repositório-181717?style=flat-square&logo=github" alt="Versão">
             </a>
           </li>
@@ -246,7 +246,7 @@ Desenvolvedor Front-End Júnior com experiência em criação de interfaces web 
           <li>📊 Seção de habilidades interativas</li>
           <li>📱 Design totalmente responsivo</li>
           <li style="margin-top: 1rem;">
-            <a href="https://github.com/devdan4ntunes/devdan4ntunes.github.io">
+            <a href="https://github.com/DanAntunes/DanAntunes.github.io">
               <img src="https://img.shields.io/badge/Repositório-181717?style=flat-square&logo=github" alt="Código">
             </a>
           </li>
@@ -292,7 +292,7 @@ Desenvolvedor Front-End Júnior com experiência em criação de interfaces web 
           <li>🌑 Tema escuro minimalista</li>
           <li>📱 Design totalmente responsivo</li>
           <li style="margin-top: 1rem;">
-            <a href="https://github.com/devdan4ntunes/todo-list-dark-forest">
+            <a href="https://github.com/DanAntunes/todo-list-dark-forest">
               <img src="https://img.shields.io/badge/Repositório-181717?style=flat-square&logo=github" alt="Código">
             </a>
           </li>
@@ -305,7 +305,7 @@ Desenvolvedor Front-End Júnior com experiência em criação de interfaces web 
         justify-content: center;
         align-items: center;
       ">
-        <img src="https://raw.githubusercontent.com/devdan4ntunes/todo-list-dark-forest/main/public/assets/image/screenshot.png" 
+        <img src="https://raw.githubusercontent.com/DanAntunes/todo-list-dark-forest/main/public/assets/image/screenshot.png" 
              alt="Preview To Do List" 
              style="max-width: 100%; border-radius: 15px; box-shadow: 0 8px 24px rgba(255,255,255,0.1);">
       </div>
@@ -338,9 +338,9 @@ Desenvolvedor Front-End Júnior com experiência em criação de interfaces web 
 
 <div style="width: 100%; text-align: center;">
   <picture style="display: inline-block; width: 100%;">
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devdan4ntunes/devdan4ntunes/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devdan4ntunes/devdan4ntunes/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/devdan4ntunes/devdan4ntunes/output/github-contribution-grid-snake.svg" style="width: 100%; display: block;">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DanAntunes/DanAntunes/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DanAntunes/DanAntunes/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DanAntunes/DanAntunes/output/github-contribution-grid-snake.svg" style="width: 100%; display: block;">
   </picture>
 </div>
 
