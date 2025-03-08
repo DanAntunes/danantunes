@@ -58,7 +58,6 @@ Desenvolvedor Front-End Júnior com experiência em criação de interfaces web 
       />
     </td>
     <td>
-      <br />
       <img
         height="155em"
         src="https://github-readme-streak-stats.herokuapp.com/?user=danantunes&theme=dark&hide_border=false"
