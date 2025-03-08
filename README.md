@@ -45,14 +45,14 @@ Desenvolvedor Front-End Júnior com experiência em criação de interfaces web 
   <tr>
     <td width="33%">
       <img
-        height="100%"
+        height="155em"
         src="https://github-readme-stats.vercel.app/api?username=DanAntunes&theme=dark&hide_border=false&include_all_commits=true"
         alt="Github Stats"
       />
     </td>
     <td width="33%">
       <img
-        height="100%"
+        height="155em"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=danantunes&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
         alt="Github Stats"
       />
@@ -60,7 +60,7 @@ Desenvolvedor Front-End Júnior com experiência em criação de interfaces web 
     <td width="33%">
       <br />
       <img
-        height="100%"
+        height="155em"
         src="https://github-readme-streak-stats.herokuapp.com/?user=DanAntunes&theme=dark&hide_border=false"
         alt="Github Stats"
       />
